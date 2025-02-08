@@ -1,0 +1,6 @@
+@NewsFullstack.Server_HostAddress = http://localhost:5037
+
+GET {{NewsFullstack.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
